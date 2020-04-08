@@ -1,0 +1,25 @@
+[33mcommit e68138f1e1124c37db22ca17757bf17dcebb41fb[m[33m ([m[1;36mHEAD -> [m[1;32mdemo[m[33m)[m
+Author: prateek pal <prateekpal02@gmail.com>
+Date:   Tue Apr 7 16:36:28 2020 +0530
+
+    Revert "demo"
+    
+    This reverts commit 03f28f4bc6f0cf74f9fcd3aece15160b4037691c.
+
+[33mcommit 03f28f4bc6f0cf74f9fcd3aece15160b4037691c[m[33m ([m[1;31morigin/demo[m[33m)[m
+Author: prateek pal <prateekpal02@gmail.com>
+Date:   Tue Apr 7 16:33:26 2020 +0530
+
+    demo
+
+[33mcommit adda3ec831999b235eed01d5f289dc6e18f18ba8[m
+Author: prateek pal <prateekpal02@gmail.com>
+Date:   Tue Apr 7 16:30:19 2020 +0530
+
+    demo branch commit
+
+[33mcommit 64882edc13fff606df8a1fc41f0b2f1e95cd8ddd[m[33m ([m[1;32mmaster[m[33m)[m
+Author: prateek pal <prateekpal02@gmail.com>
+Date:   Tue Apr 7 16:25:55 2020 +0530
+
+    demo
